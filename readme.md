@@ -20,22 +20,22 @@ By sharing my solutions, I aim to provide a helpful resource for those looking t
 
 The solutions in this repository are categorized according to the problem types on HackerRank. The following categories are included:
 
-1. **Basic Data Types**: Problems related to fundamental data types in Python, such as integers, floats, strings, and booleans.
-2. **Strings**: Problems involving string manipulation and manipulation of characters within strings.
-3. **Sets**: Problems related to set data structure and set operations.
-4. **Math**: Problems that involve mathematical concepts, such as number theory, geometry, and algebra.
-5. **Itertools**: Problems that utilize the `itertools` module in Python for advanced iteration and combinatorial operations.
-6. **Collections**: Problems involving the `collections` module in Python, which provides specialized data structures.
-7. **Date and Time**: Problems related to date and time manipulation using the `datetime` module in Python.
-8. **Errors and Exceptions**: Problems involving handling and raising exceptions in Python.
-9. **Classes**: Problems that require the implementation of classes and object-oriented programming concepts.
-10. **Built-Ins**: Problems that utilize built-in functions and modules in Python, such as `zip`, `map`, `filter`, and `sys`.
-11. **Python Functionals**: Problems that require functional programming techniques, such as higher-order functions and lambda functions.
-12. **Regex and Parsing**: Problems involving regular expressions and text parsing.
-13. **XML**: Problems related to parsing and manipulating XML data.
-14. **Closures and Decorators**: Problems that require understanding closures and decorators in Python.
-15. **Numpy**: Problems that involve using the NumPy library for numerical computing.
-16. **Debugging**: Problems that require identifying and fixing bugs in Python code.
+- **Basic Data Types**: Problems related to fundamental data types in Python, such as integers, floats, strings, and booleans.
+- **Strings**: Problems involving string manipulation and manipulation of characters within strings.
+- **Sets**: Problems related to set data structure and set operations.
+- **Math**: Problems that involve mathematical concepts, such as number theory, geometry, and algebra.
+- **Itertools**: Problems that utilize the `itertools` module in Python for advanced iteration and combinatorial operations.
+- **Collections**: Problems involving the `collections` module in Python, which provides specialized data structures.
+- **Date and Time**: Problems related to date and time manipulation using the `datetime` module in Python.
+- **Errors and Exceptions**: Problems involving handling and raising exceptions in Python.
+- **Classes**: Problems that require the implementation of classes and object-oriented programming concepts.
+- **Built-Ins**: Problems that utilize built-in functions and modules in Python, such as `zip`, `map`, `filter`, and `sys`.
+- **Python Functionals**: Problems that require functional programming techniques, such as higher-order functions and lambda functions.
+- **Regex and Parsing**: Problems involving regular expressions and text parsing.
+- **XML**: Problems related to parsing and manipulating XML data.
+- **Closures and Decorators**: Problems that require understanding closures and decorators in Python.
+- **Numpy**: Problems that involve using the NumPy library for numerical computing.
+- **Debugging**: Problems that require identifying and fixing bugs in Python code.
 
 Each category has its own folder, and within each folder, you will find the problem statement and its corresponding solution file(s).
 
@@ -60,7 +60,7 @@ Contributions to this repository are always welcome. If you have a better soluti
 2. Create a new branch with a descriptive name: `git checkout -b new-solution` or `git checkout -b new-problem`.
 3. Make your modifications or add new files.
 4. Commit your changes: `git commit -am 'Add a new solution'` or `git commit -am 'Add a new problem'`.
-5. Push the branch to your fork: `git push origin new-solution` or `git push origin new-problem`. 
+5. Push the branch to your fork: `git push origin new-solution` or `git push origin new-problem`.
 6. Open a pull request in this repository, providing a clear description of your contribution.
 
 ## License
