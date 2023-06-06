@@ -59,8 +59,8 @@ Contributions to this repository are always welcome. If you have a better soluti
 1. Fork the repository.
 2. Create a new branch with a descriptive name: `git checkout -b new-solution` or `git checkout -b new-problem`.
 3. Make your modifications or add new files.
-4. Commit your changes: `git commit -am 'Add a new solution'`or`git commit -am 'Add a new problem'`.
-5. Push the branch to your fork: `git push origin new-solution`or`git push origin new-problem`. 
+4. Commit your changes: `git commit -am 'Add a new solution'` or `git commit -am 'Add a new problem'`.
+5. Push the branch to your fork: `git push origin new-solution` or `git push origin new-problem`. 
 6. Open a pull request in this repository, providing a clear description of your contribution.
 
 ## License
