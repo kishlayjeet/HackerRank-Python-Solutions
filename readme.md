@@ -8,7 +8,6 @@ This repository contains my solutions to various Python problems from HackerRank
 - [Problem Categories](#problem-categories)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -62,7 +61,3 @@ Contributions to this repository are always welcome. If you have a better soluti
 4. Commit your changes: `git commit -am 'Add a new solution'` or `git commit -am 'Add a new problem'`.
 5. Push the branch to your fork: `git push origin new-solution` or `git push origin new-problem`.
 6. Open a pull request in this repository, providing a clear description of your contribution.
-
-## License
-
-The content of this repository is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as long as the license terms are followed.
